@@ -8,6 +8,7 @@ h1 {
 }
 h2 {
   font-size: 40px;
+  color: darkblue;
 }
 h3 {
   font-size: 35px;
@@ -39,4 +40,9 @@ h3 {
   padding: 10px 20px;
   color: aliceblue;
   border-radius: 5px;
+}
+.dream-big {
+  display: flex;
+  background-image: url(image/background-img.jpg);
+  background-repeat: none;
 }
